@@ -10,12 +10,12 @@
         </thead>
         <tbody>
             <tr>
-                <td>GAME-APP</td>
+                <td>GAME APP</td>
                 <td><a href="https://github.com/adambldwn/RN-PROJECT-8-GAME-APP">Repo details..</a></td>
                 <td><img src="https://user-images.githubusercontent.com/67829382/102021127-bcf8bb80-3d8e-11eb-8dc2-09e44ae52377.gif" alt="gif"  style="height:500px"></td>
             </tr>
             <tr>
-                <td>CHAT-APP</td>
+                <td>CHAT APP</td>
                 <td><a href="https://github.com/adambldwn/RN-PROJECT-7-CHAT-APP">Repo details..</a></td>
                 <td><img src="https://user-images.githubusercontent.com/67829382/102012706-06301780-3d5d-11eb-99eb-c7bfd7c7376f.gif" alt="gif"  style="height:500px"></td>
             </tr>
