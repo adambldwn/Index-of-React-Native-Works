@@ -9,6 +9,11 @@
             </tr>
         </thead>
         <tbody>
+           <tr>
+                <td>PHARMANCY APP</td>
+                <td><a href="https://github.com/adambldwn/Pharmancy">Repo details..</a></td>
+                <td><img src="https://media.giphy.com/media/OWniGvlI2miAhy36c9/giphy.gif" alt="gif"  style="height:500px"></td>
+            </tr>
             <tr>
                 <td>GAME APP</td>
                 <td><a href="https://github.com/adambldwn/RN-PROJECT-8-GAME-APP">Repo details..</a></td>
