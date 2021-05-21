@@ -14,8 +14,8 @@
                 <td><a href="https://github.com/adambldwn/Earthquake-App">Repo details..</a></td>
                 <td>
                   <img src="https://media.giphy.com/media/UOihOjlGsfLkHJPy8K/giphy.gif" alt="gif"  style="height:500px">
-                  <img src="https://media.giphy.com/media/lMnuEgOtJVumwFOJyg/giphy.gif" alt="gif"  style="height:500px">
               </td>
+              <td><img src="https://media.giphy.com/media/lMnuEgOtJVumwFOJyg/giphy.gif" alt="gif"  style="height:500px"></td>
             </tr>
            <tr>
                 <td>PHARMANCY APP</td>
